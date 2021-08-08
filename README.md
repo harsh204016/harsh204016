@@ -3,9 +3,9 @@
 
 ## I'm a Developer, Student and Teacher!
 
-- 🔭 I’m currently working on a data science competitions 
-- 🤖 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other machine learning practioners
+- 🔭 I’m currently working as a Developer.
+- 🤖 I’m currently sharpening my basics of ML concepts.
+- 👯 I’m looking to collaborate with other machine learning practioners.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and sing alone 😜
 
