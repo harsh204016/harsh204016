@@ -6,8 +6,8 @@
 - 🔭 I’m currently working as a Developer.
 - 🤖 I’m currently sharpening my Machine Learning concepts.
 - 👯 I’m looking to collaborate with other machine learning practioners.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and sing alone 😜
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and singing(lol: don't the remember the lyrics)
 
 
 <!-- ### Connect with me:
